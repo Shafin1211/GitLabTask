@@ -1,3 +1,5 @@
+File name corrected successfully
+
 This task helps you understand how Git handles corrections when mistakes occur during file 
 commits and pushes. You will intentionally make an error in a file name, fix it, and push the 
 corrected version again.
