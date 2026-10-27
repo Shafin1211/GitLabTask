@@ -1,0 +1,10 @@
+Trello is a user-friendly project management software that helps individuals and teams organize 
+tasks and workflows through a visual and flexible system. It is based on the Kanban 
+methodology, using boards, lists and cards to represent projects, stages and tasks respectively. 
+Each card can include checklists, due dates, attachments, labels and comments, making 
+collaboration and task tracking seamless. Trello is widely used for managing personal to-do 
+lists, team projects, software development and even classroom planning due to its simplicity 
+and adaptability. Its drag-and-drop interface and integration with tools like Slack, Google Drive 
+and Jira enhance productivity and real-time communication. Whether for small tasks or 
+complex workflows, Trello offers a structured yet highly customizable platform to boost 
+efficiency and teamwork.
